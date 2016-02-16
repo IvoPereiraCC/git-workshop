@@ -8,7 +8,8 @@ end
 #COMMIT1 AFTER ERROR
 
 def hello_word
-  puts "Hello World"
+  puts "Hello"
+  puts "World"
 end
 
 hello_word
