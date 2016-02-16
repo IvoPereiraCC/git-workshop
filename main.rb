@@ -12,3 +12,5 @@ def hello_word
 end
 
 hello_word
+
+#COMMIT2 AFTER ERROR
