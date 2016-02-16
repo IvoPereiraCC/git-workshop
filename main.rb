@@ -14,3 +14,5 @@ end
 hello_word
 
 #COMMIT2 AFTER ERROR
+
+#COMMIT3 AFTER ERROR
