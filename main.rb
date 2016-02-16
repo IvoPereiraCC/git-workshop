@@ -5,6 +5,8 @@ end
 
 #ERROR HERE
 
+#COMMIT1 AFTER ERROR
+
 def hello_word
   puts "Hello World"
 end
